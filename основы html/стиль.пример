@@ -1,11 +1,12 @@
 <style>
     body {
-       
+        background-color: lightblue;
     }
     h1 {
-        
+        color: navy;
+        font-size: 24px;
     }
     p {
-        
+        font-family: Arial, sans-serif;
     }
 </style>
